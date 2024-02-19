@@ -1,1 +1,4 @@
-command.log("Hello world again!")
+const pairs = [
+    ["Hello", "Hello"],
+]
+
