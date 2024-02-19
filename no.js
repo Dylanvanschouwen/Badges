@@ -1,0 +1,1 @@
+command.log("yes hi")
