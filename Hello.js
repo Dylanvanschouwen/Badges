@@ -1,3 +1,4 @@
 const pairs = [
+    ["Hello", "Hello"],
 ]
 
